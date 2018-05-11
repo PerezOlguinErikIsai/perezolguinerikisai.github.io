@@ -76,3 +76,30 @@ li a:hover {
   color: #F8F8F2;
 }
 
+p.margen{
+  text-align: center;
+  margin-left: 50px;
+}
+
+p.margenJ{
+  text-align: justify;
+  margin-left: 50px;
+}
+
+p.centro{
+  text-align: center;
+}
+
+p.centroC{
+  text-align: center;
+  align-self: center
+}
+
+p.justificado{
+  text-align: justify;
+}
+p.justificadoC{
+  text-align: justify;
+  align-self: center;
+}
+
